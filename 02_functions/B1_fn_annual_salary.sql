@@ -8,4 +8,3 @@ BEGIN
     RETURN p_monthly_salary * 12;
 
 END;
-/
