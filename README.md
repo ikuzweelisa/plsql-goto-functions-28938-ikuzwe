@@ -14,10 +14,13 @@ GROUP: C
 
 ## How to Run
 
--[ ] CREATE TABLES /00_setup - Setup Database tables
--[ ] RUN /01_goto - GOTO 
--[ ] RUN /02_functions - Functions
--[ ] RUN /03_tests - Tests
+- [ ] CREATE TABLES /00_setup - Setup Database tables
+
+- [ ] RUN /01_goto - GOTO 
+
+- [ ] RUN /02_functions - Functions
+
+- [ ] RUN /03_tests - Tests
 
 ## Tools Used
 
