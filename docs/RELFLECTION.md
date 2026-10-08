@@ -27,5 +27,5 @@ performs an operation and returns a value.
 
 handling Exceptions in A PL/SQL Program
 
-using WHEN OTHERS.
-using SQLERRM - to display error number
+-[ ] using WHEN OTHERS. to catch uncaught Exceptions
+-[ ] using SQLERRM - to display error number
